@@ -68,6 +68,7 @@ export default function DashboardPage() {
           <Link href="/dashboard" className="font-bold border-b-2 border-white pb-1">Dashboard</Link>
           <Link href="/clientes" className="text-gray-300 hover:text-white">Clientes</Link>
           <Link href="/pagos" className="text-gray-300 hover:text-white">Pagos</Link>
+          <Link href="/reportes" className="text-gray-300 hover:text-white">Reportes</Link>
         </div>
         <button onClick={handleCerrarSesion} className="bg-red-500 px-4 py-2 rounded font-medium hover:bg-red-600">
           Cerrar Sesión

@@ -50,6 +50,7 @@ export default function ClientesPage() {
             <Link href="/clientes" className="text-white border-b-2 border-white pb-1 transition-colors text-sm font-medium">
               Clientes
             </Link>
+            <Link href="/reportes" className="text-gray-300 hover:text-white">Reportes</Link>
           </div>
         </div>
 

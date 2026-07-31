@@ -43,6 +43,7 @@ export default function HistorialPagos() {
           <Link href="/dashboard" className="text-gray-300 hover:text-white">Dashboard</Link>
           <Link href="/clientes" className="text-gray-300 hover:text-white">Clientes</Link>
           <Link href="/pagos" className="font-bold border-b-2 border-white pb-1">Pagos</Link>
+          <Link href="/reportes" className="text-gray-300 hover:text-white">Reportes</Link>
         </div>
         <button className="bg-red-500 px-4 py-2 rounded font-medium hover:bg-red-600">Cerrar Sesión</button>
       </nav>
